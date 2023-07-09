@@ -187,7 +187,7 @@ We can revert the latest commit by using the head alias like this:</b>
 <h2>How to add a remote repository in Git</h2>
 <b>This command adds a remote repository to your local repository (just replace https://repo_here with your remote repo URL).</b>
 
-<code>git add remote https://repo_here</code>
+<code>git remote add https://repo_here</code>
 
 <h2>How to see remote URLs in Git:</h2>
 <b>You can see all remote repositories for your local repository with this command:</b>
